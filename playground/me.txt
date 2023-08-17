@@ -1,5 +1,0 @@
-{{#anushka1124}
-Name: Anushka
-Skills: HTML, CSS, JS, React.js , Tailwind CSS
-Email: anushkasrivastava1124@gmail.com
-{{/anushka1124}}
